@@ -13,7 +13,7 @@
   No banner e no rodapé (assets/banner.svg e assets/footer.svg), troque também
   "Seu Nome", "Seu cargo" e SEU_USUARIO.
 
-  Paleta preto e rosa: 08080b fundo, 13131a painéis, 2a2a33 linhas, ff7eb6 rosa.
+  Paleta preto e amarelo: 08080b fundo, 13131a painéis, 2a2a33 linhas, ffd700 amarelo.
   Para outra paleta, troque esses códigos nos arquivos.
 -->
 
