@@ -1,4 +1,4 @@
-## Olá, meu nome é Luciano 👋
+## Olá, Seja Bem-vindo 👋
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B0E14,70:14171E,100:D9A441&text=Luciano%20Morais&fontColor=F2E3C6&fontSize=44&fontAlignY=40&desc=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descSize=16&descAlignY=62&animation=fadeIn" alt="Luciano Morais — Análise e Desenvolvimento de Sistemas" width="100%" />
@@ -9,6 +9,10 @@
 
 <a href="https://github.com/LucianoMRS"><img src="https://img.shields.io/badge/GitHub-LucianoMRS-0B0E14?style=flat-square&logo=github&logoColor=D9A441" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/luciano-morais-rodrigues-dos-santos-1490413a0"><img src="https://img.shields.io/badge/LinkedIn-Luciano%20Morais-0B0E14?style=flat-square&logo=linkedin&logoColor=D9A441" alt="LinkedIn" /></a>
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/LucianoMRS/LucianoMRS/output/github-contribution-grid-snake-dark.svg" alt="Snake das contribuições" width="100%" />
 
 </div>
 
@@ -78,30 +82,6 @@ Ferramentas: <b>VS Code</b> e <b>Claude Code</b>.
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=LucianoMRS&background=0B0E14&border=3D3220&stroke=3D3220&ring=D9A441&fire=D9A441&currStreakNum=F2E3C6&sideNums=F2E3C6&currStreakLabel=D9A441&sideLabels=D9A441&dates=8B8573&border_radius=8&locale=pt_BR" alt="GitHub Streak" />
-</p>
-
-<br />
-
-<h3 align="center">atividade</h3>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucianoMRS&bg_color=0B0E14&color=F2E3C6&line=D9A441&point=F2E3C6&area=true&area_color=D9A441&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Activity Graph" width="100%" />
-</p>
-
-<br />
-
-<h3 align="center">troféus</h3>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LucianoMRS&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-</p>
-
-<br />
-
-<h3 align="center">contribuições</h3>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/LucianoMRS/LucianoMRS/output/github-contribution-grid-snake-dark.svg" alt="Snake das contribuições" width="100%" />
 </p>
 
 <br />
