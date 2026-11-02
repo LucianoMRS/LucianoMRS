@@ -68,6 +68,10 @@ Ferramentas: <b>VS Code</b> e <b>Claude Code</b>.
 </p>
 
 <p align="center">
+<a href="https://github.com/LucianoMRS/Relatorio_de_Vendas_Automatico"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoMRS&repo=Relatorio_de_Vendas_Automatico&bg_color=1C0A12&border_color=4A1B2C&title_color=E1AD01&text_color=F2E3C6&icon_color=E1AD01&border_radius=8" alt="Relatorio_de_Vendas_Automatico" /></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/LucianoMRS?tab=repositories"><img src="https://img.shields.io/badge/ver%20todos%20os%20reposit%C3%B3rios-E1AD01?style=flat-square&logo=github&logoColor=1C0A12&labelColor=E1AD01&color=E1AD01" alt="Ver todos os repositórios" /></a>
 </p>
 
