@@ -58,17 +58,17 @@ Ferramentas: <b>VS Code</b> e <b>Claude Code</b>.
 <h3 align="center">projetos</h3>
 
 <p align="center">
-<a href="https://github.com/LucianoMRS/Cadastro_De_Alunos"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoMRS&repo=Cadastro_De_Alunos&bg_color=1C0A12&border_color=4A1B2C&title_color=E1AD01&text_color=F2E3C6&icon_color=E1AD01&border_radius=8" alt="Cadastro_De_Alunos" /></a>
-<a href="https://github.com/LucianoMRS/Organizador_De_Arquivos"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoMRS&repo=Organizador_De_Arquivos&bg_color=1C0A12&border_color=4A1B2C&title_color=E1AD01&text_color=F2E3C6&icon_color=E1AD01&border_radius=8" alt="Organizador_De_Arquivos" /></a>
+<a href="https://github.com/LucianoMRS/Cadastro_De_Alunos"><img width="49%" src="assets/cards/Cadastro_De_Alunos.svg" alt="Cadastro_De_Alunos" /></a>
+<a href="https://github.com/LucianoMRS/Organizador_De_Arquivos"><img width="49%" src="assets/cards/Organizador_De_Arquivos.svg" alt="Organizador_De_Arquivos" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/LucianoMRS/Gerenciador-de-Usuarios"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoMRS&repo=Gerenciador-de-Usuarios&bg_color=1C0A12&border_color=4A1B2C&title_color=E1AD01&text_color=F2E3C6&icon_color=E1AD01&border_radius=8" alt="Gerenciador-de-Usuarios" /></a>
-<a href="https://github.com/LucianoMRS/Analisador-Automatico-de-Logs-com-Relatorio-Word"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoMRS&repo=Analisador-Automatico-de-Logs-com-Relatorio-Word&bg_color=1C0A12&border_color=4A1B2C&title_color=E1AD01&text_color=F2E3C6&icon_color=E1AD01&border_radius=8" alt="Analisador-Automatico-de-Logs-com-Relatorio-Word" /></a>
+<a href="https://github.com/LucianoMRS/Gerenciador-de-Usuarios"><img width="49%" src="assets/cards/Gerenciador-de-Usuarios.svg" alt="Gerenciador-de-Usuarios" /></a>
+<a href="https://github.com/LucianoMRS/Analisador-Automatico-de-Logs-com-Relatorio-Word"><img width="49%" src="assets/cards/Analisador-Automatico-de-Logs-com-Relatorio-Word.svg" alt="Analisador-Automatico-de-Logs-com-Relatorio-Word" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/LucianoMRS/Relatorio_de_Vendas_Automatico"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucianoMRS&repo=Relatorio_de_Vendas_Automatico&bg_color=1C0A12&border_color=4A1B2C&title_color=E1AD01&text_color=F2E3C6&icon_color=E1AD01&border_radius=8" alt="Relatorio_de_Vendas_Automatico" /></a>
+<a href="https://github.com/LucianoMRS/Relatorio_de_Vendas_Automatico"><img width="49%" src="assets/cards/Relatorio_de_Vendas_Automatico.svg" alt="Relatorio_de_Vendas_Automatico" /></a>
 </p>
 
 <p align="center">
